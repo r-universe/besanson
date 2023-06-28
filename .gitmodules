@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FastKNN"]
 	path = FastKNN
 	url = https://github.com/besanson/fastknn
-	shallow = true
-	registered = true
